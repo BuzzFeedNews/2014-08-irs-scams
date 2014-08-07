@@ -1,6 +1,6 @@
 # IRS Scams Analysis
 
-This repository contains data and analysis used for the August 7, 2014 article "[Tax Collection Scams Skyrocket](http://www.buzzfeed.com/johntemplon/tax-collection-scams-skyrocket)."
+This repository contains data and analysis used for the August 7, 2014 BuzzFeed article "[Tax Collection Scams Skyrocket](http://www.buzzfeed.com/johntemplon/tax-collection-scams-skyrocket)."
 
 ## Data
 
